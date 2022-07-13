@@ -8,6 +8,6 @@ The objective of this project is to deliver insights to understand customer dema
 
 ## Logos of the Apps Scraped
 
-<img src="Scraped_Logos.png" height=100 width=200>
+<img src="Scraped_Logos.png" height=300 width=800>
 
 <hr>
